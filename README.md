@@ -1,5 +1,5 @@
 # radar-mobile-web
-Radar de pesquisa desenvolvido com NodeJS, ReactJS e React-Native.
+Radar de pesquisa em tempo real do sistema web para o aplicativo, desenvolvido com NodeJS, ReactJS e React-Native.
 
 Tela do Aplicativo:
 
